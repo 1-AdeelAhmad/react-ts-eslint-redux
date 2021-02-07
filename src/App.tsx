@@ -12,6 +12,6 @@ const App = (props: AppProps) => {
             `Hello ${name} from ${location}`
         </div>
     );
-};
+}
 
 export default App;
